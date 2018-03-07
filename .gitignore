@@ -14,3 +14,7 @@
 /LambdaLab/build/
 /LambdaLab/dist/
 /LambdaLab/nbproject/private/
+
+# Intellij Files #
+/LambdaLab/.intellij
+
