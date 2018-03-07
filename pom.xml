@@ -13,6 +13,6 @@
 	<packaging>pom</packaging>
 
 	<modules>
-			<module>LambdaLab</module>
+		<module>LambdaLab</module>
 	</modules>
 </project>

@@ -4,6 +4,7 @@
 *.orig
 *.rej
 *#
+target/
 
 # Package Files #
 *.jar
